@@ -3,11 +3,16 @@ This repo is to save and track all flow matching projects as I learn the tool. A
 
 ## 1. Simple flow matching
 
-## 2. Diffusion Transformer
+## 2. Class conditioned flow matching
 
-## 3. Flow matching in latent space
+## 3. Diffusion Transformer
 
-## 4. Flow matching condtioned on word embeddings
+## 4. Flow matching in latent space
 
-## 5. Flow matching classifier free guidance
+## 5. Flow matching condtioned on word embeddings
 
+## 6. Flow matching classifier free guidance
+
+## 7. Test of samplers
+
+## 8. Flow matching contioned on images
