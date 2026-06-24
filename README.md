@@ -8,22 +8,22 @@ Hi, so this will be a tutorial to learning flow matching. Each topic will come w
 Task: Implement general
 
 ## 2. Class conditioned flow matching
-Theory:
+Task: Implement general
 
-## 3. Diffusion Transformer
-Theory:
+## 3. Flow matching in latent space
+Task: Implement general
 
-## 4. Flow matching in latent space
-Theory:
+## 4. Flow matching condtioned on word embeddings
+Task: Implement general
 
-## 5. Flow matching condtioned on word embeddings
-Theory:
+## 5. Flow matching classifier free guidance
+Task: Implement general
 
-## 6. Flow matching classifier free guidance
-Theory:
+## 6. Test of samplers
+Task: Implement general
 
-## 7. Test of samplers
-Theory:
+## 7. Flow matching contioned on images
+Task: Implement general
 
-## 8. Flow matching contioned on images
-Theory:
+## 8. Diffusion Transformer
+Task: Implement general
