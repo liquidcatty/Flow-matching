@@ -5,7 +5,9 @@ Hi, so this will be a tutorial to learning flow matching. Each topic will come w
 ## 0. Foundations
 
 ## 1. Simple flow matching
-Task: Implement general
+Task: Implement Simple flow matching for mnist(numbers) dataset
+resources: 
+- https://arxiv.org/abs/2210.02747
 
 ## 2. Class conditioned flow matching
 Task: Implement general
